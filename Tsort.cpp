@@ -22,7 +22,7 @@ void sort(T* m, int size, void (*swap)(T& a)) {
 
 /** \class DW
 *	\brief Dr. Who incarnations and companions
-*	<br>For War Doctor - 9, for 9th - 10, for 10th - 11 è 12,
+*	<br>For War Doctor - 9, for 9th - 10, for 10th - 11 & 12,
 *	 for 11th - 13, for 12th - 14
 */
 class DW {
